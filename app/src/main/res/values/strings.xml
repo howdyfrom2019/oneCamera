@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">oneCamera</string>
+    <string name="setting">설정</string>
+    <string name="screenRatio">화면 비율</string>
+    <string name="rotation">회전</string>
 </resources>

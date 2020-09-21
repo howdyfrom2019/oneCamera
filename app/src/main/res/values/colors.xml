@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+<!--    2021 year AI AQUA Palette-->
+    <color name="Aqua_Splash">#85CED1</color>
+    <color name="Aqua_Sky">#7BC4C4</color>
+    <color name="Aqua_Green">#00B89F</color>
+    <color name="Turquoise">#4DB6AD</color>
+<!--    2021 year S/S season color palette-->
+    <color name="Stucco">#A58D7F</color>
+    <color name="Mercury">#BAC2BA</color>
+    <color name="AppleBlossom">#DDBCA0</color>
+<!--    text color-->
+    <color name="white">#FFFFFF</color>
 </resources>
